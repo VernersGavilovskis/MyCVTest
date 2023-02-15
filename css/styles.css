@@ -1,0 +1,31 @@
+body {
+  background-color: #e9e9e9;
+}
+hr {
+  background-color: #a3a3a3;
+  border: none;
+  height: 2px;
+}
+h1 {
+  color: #4c4c4c;
+  font-size: 48px;
+}
+h2 {
+  color: #4c4c4c;
+}
+/* img {
+  background-color: red;
+  height: 30px;
+} */
+/* .higlight {
+  color: blue;
+} */
+/* .contact-icon {
+  background-color: green;
+} */
+/* #email {
+  background-color: purple;
+} */
+.contact-icon {
+  height: 30px;
+}
